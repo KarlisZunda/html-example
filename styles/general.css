@@ -1,0 +1,12 @@
+body {
+  /*background-image: url("/Kaizen-gym/images/background-photo.jpg");*/
+  background-color: white;
+  height: 3000px;
+  background-position: -65% 1%;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+  margin: 0;
+}
